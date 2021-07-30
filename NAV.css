@@ -1,0 +1,68 @@
+
+h1{color:black; 
+text-align:center;
+
+ }
+
+h2{color:black; 
+text-align:left;
+
+ }
+
+ h3{color:black; 
+text-align:center;
+
+ }
+
+ p{font-family: arial;
+
+ }
+ 
+
+
+ cite{color:black; 
+    text-align: justify-all;
+
+ }
+
+body{
+    background:url(); 
+    background-color:white;
+}
+
+div.noticia {
+  width: 50%;
+  margin: 40px ;
+  background:url();
+  background-color:white;
+  padding: 15px;
+}
+
+div.noticia img.derecha {
+  float: right;
+  margin-left: 15px;
+}
+div.reset {
+  clear: both;
+}
+
+div{
+  text-align: left;
+}
+
+aside{  
+    font-family: arial;
+    background-color:;
+    
+}
+
+ul{  
+    font-family: arial;
+background-color:;
+   
+}
+li{  
+    font-family: arial;
+    background-color:;
+    
+   
